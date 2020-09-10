@@ -17,4 +17,4 @@ In this repository provided my Python and Java solutions of LeetCode problems.
 ## Solutions
 |№|Title|Solution|Difficulty|Note|
 | ---: | --- | --- | --- | --- |
-|1.|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1.twoSum.py) - [Java](https://github.com/YuriSpiridonov/LeetCode/blob/master/Easy/1.twoSum.py) |Easy|
+|1.|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/rafaelm229/LeetCode/blob/master/Easy/Python/1.twoSum.py) - [Java](https://github.com/rafaelm229/LeetCode/blob/master/Easy/Java/1.twoSum.java) |Easy|
