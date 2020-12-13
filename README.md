@@ -12,9 +12,9 @@ inspired by [YuriSpiridonov](https://t.co/VntSkEj2jp?amp=1)
 In this repository provided my Python and Java solutions of LeetCode problems. 
 - I recommend you to try and solve problems, before you look at the solutions here.
 - All Solutions and approaches may be not optimal, Please be free to give sugestions if you have more optimal solutions.
-- All Solutions here are in Java and Python 3.
+- All Solutions here are in Java.
 
 ## Solutions
 |№|Title|Solution|Difficulty|Note|
 | ---: | --- | --- | --- | --- |
-|1.|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](https://github.com/rafaelm229/LeetCode/blob/master/Easy/Python/1.twoSum.py) - [Java](https://github.com/rafaelm229/LeetCode/blob/master/Easy/Java/1.twoSum.java) |Easy|
+|1.|[Two Sum](https://leetcode.com/problems/two-sum/)| [Java](https://github.com/rafaelm229/LeetCode/blob/master/Easy/Java/1.twoSum.java) |Easy|
